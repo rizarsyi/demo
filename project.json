@@ -1,0 +1,20 @@
+{
+    "projectName": "demo",
+    "description": "Lorem ipsum dolor sit amet",
+    "type": "community",
+    "author": "rizarsyi",
+    "version": "1.0.0",
+    "authorWebsite": "https://github.com/rizarsyi/agama-project",
+    "githubUri": "https://github.com/rizarsyi/agama-project",
+    "license": "MIT",
+    "lastUpdated": "1687579221725",
+    "tags": [
+        "test",
+        "asdsad"
+    ],
+    "configs": {
+        "co.gluu.openid": {},
+        "co.beta.login": {}
+    },
+    "noDirectLaunch": []
+}
